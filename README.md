@@ -1,2 +1,2 @@
 # Tensorflow-Practice
-Models for Datasets from Kaggle
+Models for Various Datasets from Kaggle.
